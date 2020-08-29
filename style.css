@@ -101,7 +101,7 @@ header {
 
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("image-2.png");
+    url("./images/image-2.png");
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -200,7 +200,7 @@ header {
 }
 /* coming soon */
 .coming-soon {
-  background-image: url("abstract.jpg");
+  background-image: url("./images/abstract.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -425,7 +425,7 @@ header {
   grid-column-end: 3;
   grid-row-start: 1;
   grid-row-end: 2;
-  background-image: url("krystal-raphael.jpg");
+  background-image: url("./images/krystal-raphael.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -446,7 +446,7 @@ header {
   grid-column-end: 5;
   grid-row-start: 1;
   grid-row-end: 2;
-  background-image: url("julie-knowles.jpg");
+  background-image: url("./images/julie-knowles.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -481,7 +481,7 @@ header {
   grid-column-end: 4;
   grid-row-start: 2;
   grid-row-end: 3;
-  background-image: url("charlie-harrington.jpg");
+  background-image: url("./images/charlie-harrington.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -542,14 +542,14 @@ header {
 
 .first-attention {
   background-image: linear-gradient(rgba(7, 24, 33, 0.6), rgba(0, 0, 0, 0.5)),
-    url("1.jpg");
+    url("./images/1.jpg");
   grid-column: 1 / 2;
   padding: 50px;
   transition: all 0.3s ease 0;
 }
 .second-attention {
   background-image: linear-gradient(rgba(7, 24, 33, 0.6), rgba(0, 0, 0, 0.5)),
-    url("Spot-cash.jpg");
+    url("./images/Spot-cash.jpg");
   grid-column: 2 / 3;
   padding: 50px;
   transition: all 0.3s ease 0;
@@ -557,7 +557,7 @@ header {
 
 .third-attention {
   background-image: linear-gradient(rgba(7, 24, 33, 0.6), rgba(0, 0, 0, 0.5)),
-    url("Galvanize-Pup_compressed.jpg");
+    url("./images/Galvanize-Pup_compressed.jpg");
   grid-column: 3 / 4;
   padding: 50px;
   transition: all 0.3s ease 0;
@@ -565,7 +565,7 @@ header {
 
 .fourth-attention {
   background-image: linear-gradient(rgba(7, 24, 33, 0.6), rgba(0, 0, 0, 0.5)),
-    url("BBQ_compressed.jpg");
+    url("./images/BBQ_compressed.jpg");
   grid-column: 1 / 2;
   grid-row: 2/3;
   padding: 50px;
@@ -573,7 +573,7 @@ header {
 }
 .five-attention {
   background-image: linear-gradient(rgba(7, 24, 33, 0.6), rgba(0, 0, 0, 0.5)),
-    url("San-Francisco-Workspace_compressed.jpg");
+    url("./images/San-Francisco-Workspace_compressed.jpg");
   grid-column: 2 / 3;
   grid-row: 2/3;
   padding: 50px;
@@ -581,7 +581,7 @@ header {
 }
 .six-attention {
   background-image: linear-gradient(rgba(7, 24, 33, 0.6), rgba(0, 0, 0, 0.5)),
-    url("Platte-Patio_largerCompressed.jpg");
+    url("./images/Platte-Patio_largerCompressed.jpg");
   grid-column: 3 / 4;
   grid-row: 2/3;
   padding: 50px;
@@ -593,7 +593,7 @@ header {
       rgba(28, 86, 160, 0.5),
       rgba(28, 86, 160, 0.5)
     ),
-    url("1.jpg");
+    url("./images/1.jpg");
 }
 
 .second-attention:hover {
@@ -601,35 +601,35 @@ header {
       rgba(28, 86, 160, 0.5),
       rgba(28, 86, 160, 0.5)
     ),
-    url("Spot-cash.jpg");
+    url("./images/Spot-cash.jpg");
 }
 .third-attention:hover {
   background-image: linear-gradient(
       rgba(28, 86, 160, 0.5),
       rgba(28, 86, 160, 0.5)
     ),
-    url("Galvanize-Pup_compressed.jpg");
+    url("./images/Galvanize-Pup_compressed.jpg");
 }
 .fourth-attention:hover {
   background-image: linear-gradient(
       rgba(28, 86, 160, 0.5),
       rgba(28, 86, 160, 0.5)
     ),
-    url("BBQ_compressed.jpg");
+    url("./images/BBQ_compressed.jpg");
 }
 .five-attention:hover {
   background-image: linear-gradient(
       rgba(28, 86, 160, 0.5),
       rgba(28, 86, 160, 0.5)
     ),
-    url("San-Francisco-Workspace_compressed.jpg");
+    url("./images/San-Francisco-Workspace_compressed.jpg");
 }
 .six-attention:hover {
   background-image: linear-gradient(
       rgba(28, 86, 160, 0.5),
       rgba(28, 86, 160, 0.5)
     ),
-    url("Platte-Patio_largerCompressed.jpg");
+    url("./images/Platte-Patio_largerCompressed.jpg");
 }
 /* #1c56a0 */
 .footer-hero {
@@ -637,7 +637,7 @@ header {
       rgba(28, 86, 160, 0.5),
       rgba(28, 86, 160, 0.5)
     ),
-    url("image-2.png");
+    url("./images/image-2.png");
   height: 300px;
   background-repeat: no-repeat;
   background-size: cover;
